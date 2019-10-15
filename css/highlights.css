@@ -1,0 +1,17 @@
+span.dupe {
+	background-color: Gold;
+}
+
+span.dupe:hover {
+	background-color: blue;
+}
+
+span.acro_pair, span.invalid_exclamation, span.invalid_double_dash,span.invalid_semi_colon {
+	background-color: #ff4235;
+	cursor:pointer;
+}
+
+span.approved_acro{
+	background-color:#36a6ff;
+	cursor:pointer;
+}
