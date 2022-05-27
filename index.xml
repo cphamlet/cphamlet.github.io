@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connor Hamlet</title>
+    <link>https://connorhamlet.com/</link>
+    <description>Recent content on Connor Hamlet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 Jan 2018 20:21:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://connorhamlet.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hacking the CAN Bus</title>
+      <link>https://connorhamlet.com/blog/2018-01/hacking-the-can-bus/</link>
+      <pubDate>Tue, 30 Jan 2018 20:21:13 +0800</pubDate>
+      
+      <guid>https://connorhamlet.com/blog/2018-01/hacking-the-can-bus/</guid>
+      <description>adel ben
+Introduction Without a doubt, as we have achieved greater technological advancement, vehicles have switched gears from a luxury to a necessity. As of 2015, over 263 million vehicles are registered in the United States1 according to Statistica, and 91% of people over the age of 16 have a driver&amp;rsquo;s license.
+With so many cars on the road, it is especially important that we secure this critical infrastructure from cyber attack. So far researchers have demonstrated remote attacks which allow malicious actors to brake, steer, and disable the engine, showcasing a harrowing reality. The source of these attacks reside on a physical medium called the &amp;ldquo;CAN bus&amp;rdquo; which we are going to thoroughly examine. This post is the start of a multi-page series on:
+ An Introduction to CAN Examples of attacks on vehicles. Reading CAN Traffic from your vehicle. The future for securing against these attacks.  What is CAN? A Brief Introduction CAN is an acronym that stands for Controller Area Network. It is a serverless, bus network which allows microcontollers to communicate with each other. For example, CAN is the medium which allows the engine to report its revolutions per minute and engine load to the transmission, which tells other electronic components to switch gears.</description>
+    </item>
+    
+  </channel>
+</rss>
